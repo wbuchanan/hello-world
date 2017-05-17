@@ -2,7 +2,7 @@
 ## Intro to Git
 Git is a version control system that tracks changes in a file directory.  It is an application that can run on your computer and track changes to your files. 
 
-It prevents you from ever dealing with files like: `Board_Presentation_final_version2_noon.docx`
+It prevents you from ever dealing with files like: `Board_Presentation_ABSOLUTE FINAL w supt feedback v2.docx` ![Final Version](https://github.com/nathant23/hello-world/blob/master/img/00_final_version.png)__
 
 ### Initializing a Git repository and committing changes
 __1. You can open a git command line interface by right clicking in a folder. ![Git Bash](https://github.com/nathant23/hello-world/blob/master/img/01_start_Git_Bash.png)__
