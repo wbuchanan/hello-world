@@ -20,10 +20,12 @@ __6. After you have edited a file you can check the status of you repository to 
 __7. If you would like these changes to be part of the next commit you need to 'stage' the changes.  This again is done by the `git add <file name>` or `git add .` command. ![git add .](https://github.com/nathant23/hello-world/blob/master/img/07_git_add_..png)__
 
 __8. You can now commit the modifications that you have added with `git commit -m 'Another message'` ![git commit mod](https://github.com/nathant23/hello-world/blob/master/img/08_git_commit_modification.png)__
+
 ### Branching
 Git branching is a powerful feature that allows you to continue development or edits without messing with the main files.
 
 __9. You can create a branch and 'checkout' that branch simultaneously with the command `git checkout -b <new branch name>`.  This essentially gives you a copy of the set of files that existed that you can edit or add to without affecting the originals. ![git checkout](https://github.com/nathant23/hello-world/blob/master/img/09_git_checkout.png)__
+
 
 
 
