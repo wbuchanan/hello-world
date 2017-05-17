@@ -16,6 +16,8 @@ __4. In order to create a snapshot of the files in your repository you need to "
 __5. A snapshot of your repository happens when you 'commit' the changes.  This is accomplished by the command `git commit -m 'My message'` where 'My message' is the message you create to indicate what is being committed (snapshot). ![git commit](https://github.com/nathant23/hello-world/blob/master/img/05_git_commit.png)__
 
 __6. After you have edited a file you can check the status of you repository to see that a file has been changed.![git status modified](https://github.com/nathant23/hello-world/blob/master/img/06_git_status_modified.png)__
+
+__7. If you would like these changes to be part of the next commit you need to 'stage' the changes.  This again is done by the `git add <file name>` or `git add .` command. ![git add .](https://github.com/nathant23/hello-world/blob/master/img/06_git_add_..png)__
 ### Branching
 
 
