@@ -18,6 +18,8 @@ __5. A snapshot of your repository happens when you 'commit' the changes.  This 
 __6. After you have edited a file you can check the status of you repository to see that a file has been changed.![git status modified](https://github.com/nathant23/hello-world/blob/master/img/06_git_status_modified.png)__
 
 __7. If you would like these changes to be part of the next commit you need to 'stage' the changes.  This again is done by the `git add <file name>` or `git add .` command. ![git add .](https://github.com/nathant23/hello-world/blob/master/img/07_git_add_..png)__
+
+__8. You can now commit the modifications that you have added with `git commit -m 'Another message'` ![git commit mod](https://github.com/nathant23/hello-world/blob/master/img/08_git_commit_modification.png)__
 ### Branching
 
 
