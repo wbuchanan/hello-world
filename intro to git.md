@@ -53,4 +53,4 @@ __18. Once you click 'Create repository' GitHub gives you explicit instructions 
 
 __19. Next from the command line of the local machine we will push the local folder contents to GitHub.  First we need to add the url of the GitHub repository. ![git remote add origin](https://github.com/nathant23/hello-world/blob/master/img/19_git_remote_add_origin.png)__
 
-
+__20. Now the contents of the local directory can be pushed to GitHub. ![git push](https://github.com/nathant23/hello-world/blob/master/img/20_git_push.png)__
