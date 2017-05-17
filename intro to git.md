@@ -37,10 +37,20 @@ __13. Now those changed will be commited. Notice the new file name. ![git commit
 
 __14. We can go back to the original branch with the command `git checkout master`.  Notice that when we do this we go back to the original files.  These files do not have the edits and work that was done on the 'sdp' branch. ![git commit branch](https://github.com/nathant23/hello-world/blob/master/img/14_git_checkout_master.png)__
 
+__15. In order to merge the edits from the sdp branch to the original files on the master branch you use the `git merge <branch name>` command.![git merge sdp](https://github.com/nathant23/hello-world/blob/master/img/15_git_merge_sdp.png)__
+
 
 ### GitHub
+GitHub is like social media for coding.  It is a git repository hosting service.  This is where you can share your git repositories with other people.  You can use git on your local computer without ever using GitHub... but you would be missing out.
 
+The social aspect of GitHub is what makes it so amazingly powerful.  You can share your code, you can collaborate on projects, or you can learn from other people's code.  
 
+__16. In order to share your local git repository on GitHub you must first create an empty repository on GitHub. You an do that by clicking on 'New Repository' ![GitHub repository](https://github.com/nathant23/hello-world/blob/master/img/16_new_repository.png)__
 
+__17. Next you can name the GitHub repository with the same name as the repository on your local machine.  Then click 'Create repository'. ![GitHub create repository](https://github.com/nathant23/hello-world/blob/master/img/17_create_repository.png)__
+
+__18. Once you click 'Create repository' GitHub gives you explicit instructions on how you can populate that repository with your local repository (directory / folder).![GitHub push](https://github.com/nathant23/hello-world/blob/master/img/18_github_push.png)__
+
+__19. Next from the command line of the local machine we will push the local folder contents to GitHub.  First we need to add the url of the GitHub repository. ![git remote add origin](https://github.com/nathant23/hello-world/blob/master/img/19_git_remote_add_origin.png)__
 
 
