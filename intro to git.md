@@ -26,7 +26,16 @@ Git branching is a powerful feature that allows you to continue development or e
 
 __9. You can create a branch and 'checkout' that branch simultaneously with the command `git checkout -b <new branch name>`.  This essentially gives you a copy of the set of files that existed that you can edit or add to without affecting the originals. ![git checkout](https://github.com/nathant23/hello-world/blob/master/img/09_git_checkout.png)__
 
+__10. You can check to see what branches exist by the command `git branch` ![git branch](https://github.com/nathant23/hello-world/blob/master/img/10_git_branch.png)__
 
+ 
+__11. While on the 'sdp' branch of the 'hello world' repository I have edited the file to say 'Hello, SDP' instead of 'Hello, World'.  I have also changed the name of the file. I can check the status of this branch, `git status`, to see that changes are detected by git.![git status branch edit](https://github.com/nathant23/hello-world/blob/master/img/11_git_status_delete.png)__
+
+__12. I can now add those changes to be staged for commit. ![git add](https://github.com/nathant23/hello-world/blob/master/img/12_git_add.png)__
+
+__13. Now those changed will be commited. Notice the new file name. ![git commit branch](https://github.com/nathant23/hello-world/blob/master/img/13_git_commit_branch.png)__
+
+__14. We can go back to the original branch with the command `git checkout master`.  Notice that when we do this we go back to the original files.  These files do not have the edits and work that was done on the 'sdp' branch. ![git commit branch](https://github.com/nathant23/hello-world/blob/master/img/14_git_checkout_master.png)__
 
 
 ### GitHub
