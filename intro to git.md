@@ -11,9 +11,9 @@ __2. Git begins tracking a folder (repository) when you type the command `git in
 
 __3. You can check the status of what is being tracked by the command `git status`. ![git status](https://github.com/nathant23/hello-world/blob/master/img/03_git_status.png)__
 
-__4. In order to create a snapshot of the files in your directory you need to "stage" the changes that you want to commit to the snapshot.  This is done by the command `git add <file name>` or add multiple file changes with `git add .` ![git add](https://github.com/nathant23/hello-world/blob/master/img/04_git_add_and_status.png)__
+__4. In order to create a snapshot of the files in your repository you need to "stage" the changes that you want to commit to the snapshot.  This is done by the command `git add <file name>` or add multiple file changes with `git add .` ![git add](https://github.com/nathant23/hello-world/blob/master/img/04_git_add_and_status.png)__
 
-__5. 
+__5. A snapshot of your repository happens when you 'commit' the changes.  This is accomplished by the command `git commit -m 'My message'` where 'My message' is the message you create to indicate what is being committed (snapshot). ![git add](https://github.com/nathant23/hello-world/blob/master/img/05_git_commit.png)__
 
 ### Branching
 
