@@ -54,3 +54,9 @@ __18. Once you click 'Create repository' GitHub gives you explicit instructions 
 __19. Next from the command line of the local machine we will push the local folder contents to GitHub.  First we need to add the url of the GitHub repository. ![git remote add origin](https://github.com/nathant23/hello-world/blob/master/img/19_git_remote_add_origin.png)__
 
 __20. Now the contents of the local directory can be pushed to GitHub. ![git push](https://github.com/nathant23/hello-world/blob/master/img/20_git_push.png)__
+
+__21. With the files now hosted on GitHub they can also be edited and commited there. Click the file to edit.  And then click the edit button. ![GitHub edit](https://github.com/nathant23/hello-world/blob/master/img/21_github_edit.png)__
+
+__22. These changes that were created in GitHub can now be committed in GitHub.  Just add your commit message and click 'Commit changes'. ![GitHub commit](https://github.com/nathant23/hello-world/blob/master/img/22_github_commit.png)__
+
+__23. Finally, we can pull down the edits from GitHub to our local machine.  This is done from the local machine and can be done on the command line with the code `git pull origin master`![GitHub commit](https://github.com/nathant23/hello-world/blob/master/img/23_git_pull_origin_master.png)__
